@@ -11,6 +11,8 @@ A modern task management application with dark/light mode toggle and API data fe
 - Example API data fetching
 - Responsive design
 - Local storage persistence
+- Task Manager Deployed to vercel
+- 
 
 ## Technologies Used
 
@@ -19,6 +21,7 @@ A modern task management application with dark/light mode toggle and API data fe
 - React Icons
 - React Router
 - Vite
+- Vercel
 
 ## Installation
 
@@ -32,3 +35,4 @@ A modern task management application with dark/light mode toggle and API data fe
 - `build`: Builds the application for production
 - `preview`: Previews the production build
 - `lint`: Runs ESLint for code quality checks
+link to the  task manager: https://task-manager-app-eosin.vercel.app/
